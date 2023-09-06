@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh26" alt="saurabhsingh26" /></a> </p>
 
-- 🔭 I’m currently working on **Flipkart Clone**
+- 🔭 Swiggy Clone App - https://swiggy-saurabh.vercel.app/
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhsingh26](https://github.com/saurabhsingh26)
 
