@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/saurabh-raj-singh**
 
-- 📄 Know about my experiences https://saurabhsinghayodhya.vercel.app/
+- 📄 Know about my experiences https://saurabhsinghayodhya.tech/
 
 - ⚡ Fun fact **Blah Blah Blah**
 
